@@ -1,7 +1,7 @@
 # Hello, I'm Erick 
 <a href="https://linkedin.com/in/erickslinked24"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently an Information Technology Specialist with Teksynap, and a member of the Army National Guard as a Network Specialist. I have achieved completion of multiple certifications, projects and virtual lab hours mirroring real-life scenarios and threats as shown below. I am passionate about mitigating cyber security threats and responses where I can put my work experience and gained knowledge to use, by applying my strong analytic and problem-solving skills. Let me be a part and contributer to your security team! 
+I am currently an Information Technology Specialist with Teksynap, and a member of the Army National Guard as a Network Specialist. I have achieved completion of multiple certifications, projects, and virtual lab hours mirroring real-life scenarios and threats as shown below. I am passionate about mitigating cyber security threats and responses where I can use my work experience and gained knowledge, by applying my strong analytic and problem-solving skills. Let me be a part and contributor to your security team! 
 
 ## Objective
 
@@ -11,15 +11,14 @@ My journey in Information Security has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Cyber Defenders Virtual Lab|
+| Network Traffic Monitoring & Filtering        | Cyber Defenders Virtual Lab|
+| Endpoint Detection                            | Cyber Defenders Virtual Lab|
+| Incident Response Planning and Execution      | Cyber Defenders Virtual Lab|
+| Malware Analysis                              | Cyber Defenders Virtual Lab|
+| Phishing / Identity                           | Cyber Defenders Virtual Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,7 +40,7 @@ My journey in Information Security has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### VULNERABITLITY SCANNING
+### Vulnerability Scanning
 </div>
     <img src="https://img.shields.io/badge/tenable%20nessus-lightblue?style=for-the-badge&logoSize=auto" />
     <img src="https://img.shields.io/badge/NMAP-blue?style=for-the-badge&logoSize=auto" />
@@ -56,4 +55,6 @@ My journey in Information Security has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
+- Build A Local Area Network 
+- IDS/Zeek Network Monitoring (In-progress)
+- Honeypot (In-Progress) 
