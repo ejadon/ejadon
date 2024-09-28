@@ -52,7 +52,7 @@ My journey in Information Security has led me to develop a passion for cybersecu
 <img src="https://img.shields.io/badge/WOSS-blue?style=for-the-badge&logoSize=auto" />
 </div>
 
-## Virtual Lab Hands-on Practice
+## Cyber Defenders Hands-on Practice
 <div>
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/ejadon17.png" width="300" /> https://cyberdefenders.org/p/ejadon17
 
