@@ -45,14 +45,16 @@ My journey in Information Security has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/tenable%20nessus-lightblue?style=for-the-badge&logoSize=auto" />
     <img src="https://img.shields.io/badge/NMAP-blue?style=for-the-badge&logoSize=auto" />
 
-
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/C%7CEH-black?style=for-the-badge&logoSize=auto&color=red" />
 <img src="https://img.shields.io/badge/WOSS-blue?style=for-the-badge&logoSize=auto" />
 </div>
+
+## Virtual Lab Hands-on Practice
+<div>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/ejadon17.png" width="300" /> https://cyberdefenders.org/p/ejadon17
 
 ## Projects
 - Build A Local Area Network 
