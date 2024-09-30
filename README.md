@@ -57,6 +57,5 @@ My journey in Information Security has led me to develop a passion for cybersecu
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/ejadon17.png" width="300" /> https://cyberdefenders.org/p/ejadon17
 
 ## Projects
-- Build A Local Area Network 
-- IDS/Zeek Network Monitoring (In-progress)
+- Built A Local Area Network 
 - Honeypot (In-Progress) 
