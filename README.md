@@ -12,7 +12,7 @@ My journey in Information Security has led me to develop a passion for cybersecu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Cyber Defenders Virtual Lab|
-| Network Traffic Monitoring & Filtering        | Cyber Defenders Virtual Lab|
+| Network Traffic Monitoring & Filtering        | <a href=https://github.com/ejadon/T1594-Lab-Network-Forensics->T1594 Lab</a>|
 | Endpoint Detection                            | Cyber Defenders Virtual Lab|
 | Incident Response Planning and Execution      | Cyber Defenders Virtual Lab|
 | Malware Analysis                              | Cyber Defenders Virtual Lab|
